@@ -5,7 +5,6 @@ import Home from "./Pages/Home/Home";
 import Login from "./Pages/Login/Login";
 import Profile from "./Pages/Profile/Profile";
 import Register from "./Pages/Register/Register";
-import "./Style.scss";
 
 const currentUser = true;
 
