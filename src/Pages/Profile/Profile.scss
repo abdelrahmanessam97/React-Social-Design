@@ -1,4 +1,4 @@
-@import url("../../Style");
+@import "../../Style.scss";
 
 .profile {
   @include themify($themes) {
